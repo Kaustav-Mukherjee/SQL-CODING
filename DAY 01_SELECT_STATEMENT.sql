@@ -40,3 +40,5 @@ SELECT DISTINCT first_name, gender
 FROM employee_demographics; #See as the distinct gets applied on the first_name column, it fetches just the unique values, if any from that column. And the unique values comes with their respective genders, the distinct is not applied there.
 
 #The flash icon will run the entire code, while the flash with the cursor icon will run the code where the cursor is currently present.
+
+#EXPLAINER VIDEO HERE - https://youtu.be/F_jRLsr2taA?si=1BvExOjuRRs-nSwJ
